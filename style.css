@@ -1,0 +1,48 @@
+
+
+/*.first-container {
+    background-color: #1F2937;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.logo {
+    color: white;
+}
+
+.awesome {
+    color: white;
+}
+
+.text {
+    color: white;
+}
+
+.img-box {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    list-style-type: none;
+    max-width: 800px;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.one-signup {
+    display: flex;
+}
+    */
