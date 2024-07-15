@@ -126,4 +126,92 @@ ul {
     height: 150px;
     width: 150px;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #E5E7EB;
+    height: 300px;
+}
+
+.quote {
+    display: flex;
+    width: 700px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.from {
+   display: flex;
+   margin-top: 230px;
+   margin-left: 5px;
+   margin-right: 0; 
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: bolder;
+}
+
+.fifth-container {
+    display: flex;
+    justify-content: center;
+}
+
+.action {
+    margin-top: 70px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    width: 700px;
+}
+
+.wordbox {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 100px;
+}
+
+.words1 {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 18px;
+    display: flex;
+    color: white;
+}
+
+.words2 {
+    font-size: 13px;
+    margin-left: 50px;
+    display: flex;
+    color: white;
+}
+
+.second-signup {
+    margin-left: 100px;
+    width: 100px;
+    height: 30px;
+    background-color:#3882F6;
+    border-color: white;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.sixth-container {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    height: 80px;
+    margin-top: 80px;
+}
+
+.copyright {
+    display: flex;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
 }
